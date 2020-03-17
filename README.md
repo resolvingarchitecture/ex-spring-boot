@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/resolvingarchitecture/example-spring-boot.svg?branch=master)](https://travis-ci.com/resolvingarchitecture/example-spring-boot)
+[![Maven Version](https://maven-badges.herokuapp.com/maven-central/resolvingarchitecture/example-spring-boot/badge.svg)](http://search.maven.org/#search|gav|1|g:"resolvingarchitecture"%20AND%20a:"example-spring-boot")
+
 # Getting Started
 Spring Boot example with Jersey.
 
